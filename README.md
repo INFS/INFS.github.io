@@ -1,2 +1,2 @@
-INFS.github.io
-==============
+INFS
+====
